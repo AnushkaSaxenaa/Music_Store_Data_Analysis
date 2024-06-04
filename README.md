@@ -269,7 +269,7 @@ Led Zeppelin	|22|	114
 U2 |150|	112
 Deep Purple	|58|	92
 Iron Maiden	|90|	81
-Pearl Jam||118|	54
+Pearl Jam|118|	54
 Van Halen|152|52
 Queen|51|	45
 The Rolling Stones|142|41
